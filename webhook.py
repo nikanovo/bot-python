@@ -10,7 +10,7 @@ from main_router import main_router
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 WEBHOOK_PATH = "/webhook"
-APP_URL = "https://sddjgiohgqehgpd.onrender.com"
+APP_URL = "https://bot-python-f07a.onrender.com"
 WEBHOOK_URL = APP_URL + WEBHOOK_PATH
 
 logging.basicConfig(
