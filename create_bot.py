@@ -13,6 +13,6 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = "7506270964:AAGcaJUAf9ClMzryGXxUTiK2sQ77S05MIas"
+TOKEN = "8078422610:AAGhg0kJ65kC7rxbgkekWQTJOzsYo7dJEbo"
 bot = Bot(token=TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.MARKDOWN))
 dp = Dispatcher(storage=MemoryStorage())
