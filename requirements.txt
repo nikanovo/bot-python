@@ -1,0 +1,6 @@
+fastapi
+aiogram
+uvicorn
+bs4
+asyncio
+aiohttp
